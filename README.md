@@ -1,6 +1,6 @@
 # **ONLINE TEST PLATFORM**
 
-### **Domains:** Web dev, data science, artificial intelligence, computer vision 
+### **Domains:** Web dev
 
 ---
 
